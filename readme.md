@@ -2,11 +2,11 @@
 
 ---
 
-My name is Ludmila, I'm from Brazil. I'm currently studying **Front-End Developer** at Laboratória-SP.
+My name is Ludmila and I'm currently studying at Laboratória-SP to be a **Front-End Developer**.
 
-Although also have a degree in Agricultural Engineering, and a master's in Soil Science.
+I also have a bachalor's in Agricultural Engineering and a master's in Soil Science.
 
-I'm a curious person and fascinated with technology. I'm like to share the knowledge I have, also sharing is a way to learn more.
+I'm a curious person who is fascinated with technology. I like to share the knowledge I have, which is also the best way to learn more.
 
 </br>
 <div align="center"> 
