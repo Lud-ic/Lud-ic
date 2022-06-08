@@ -19,8 +19,6 @@ I'm a curious person who is fascinated with technology. I like to share the know
 </br>
 <div align="center">
   <a href="https://github.com/Lud-ic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lud-ic&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  </br>
   </br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lud-ic&layout=compact&langs_count=7&theme=bear"/>
 </div>
